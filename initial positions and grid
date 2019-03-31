@@ -1,4 +1,2 @@
-from random import randint,choice
+Snakkitty snaaaake
 
-def startpos(grid):
-  start = choice(len(grid))
