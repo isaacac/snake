@@ -1,2 +1,4 @@
-Snakkitty snaaaake
+import turtle, random
+
+def grid(
 
