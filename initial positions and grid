@@ -1,2 +1,4 @@
-Snakkitty snaaaake
+from random inport randint,choice
 
+def startpos(grid):
+	startx = [choice(0,len(grid)*len(grid[0]))  
