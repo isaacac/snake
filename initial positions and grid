@@ -1,1 +1,4 @@
+from random import randint,choice
 
+def startpos(grid):
+  start = choice(len(grid))
